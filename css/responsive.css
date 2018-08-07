@@ -1,0 +1,29 @@
+@media screen and (min-width:401px) {
+  body {
+    display: block;
+    flex-wrap: nowrap;
+    width: 100%;
+  }
+  h1{
+    font-size: 40px;
+  }
+}
+@media screen and (min-width:800px){
+  body {
+    display: block;
+    flex-wrap: wrap;
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  h1 {
+    font-size: 60px;
+  }
+  img {
+    width:75%;
+  }
+  p {
+    font-size: 25px;
+  }
+}

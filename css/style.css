@@ -1,0 +1,34 @@
+html {
+  background-color: #B7D5D4;
+  text-align: center;
+}
+
+
+h1 {
+  color: #008080;
+  background-color: #373E40;
+  text-align: center;
+  width: 100%;
+}
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: #373E40;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+
+}
+p {
+  font-size: 15px;
+}
+#reset {
+  background-color: #008080;
+  color: white;
+  border-radius: 5px;
+  padding:15px 25px 15px 25px;
+}
